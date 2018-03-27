@@ -1,0 +1,26 @@
+c:\users\chetan jagdaley\documents\visual studio 2010\Projects\Shop Management project\Shop Management project\bin\Debug\Shop Management project.exe
+c:\users\chetan jagdaley\documents\visual studio 2010\Projects\Shop Management project\Shop Management project\bin\Debug\Shop Management project.pdb
+c:\users\chetan jagdaley\documents\visual studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.Form1.resources
+c:\users\chetan jagdaley\documents\visual studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.Properties.Resources.resources
+c:\users\chetan jagdaley\documents\visual studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop Management project.csproj.GenerateResource.Cache
+c:\users\chetan jagdaley\documents\visual studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop Management project.exe
+c:\users\chetan jagdaley\documents\visual studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop Management project.pdb
+c:\users\chetan jagdaley\documents\visual studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.AdminForm.resources
+c:\users\chetan jagdaley\documents\visual studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.EmployersForm.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop Management project.csprojResolveAssemblyReference.cache
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.adminForminside.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.ShowBalance.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.manageemployee.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.newEmployeeSignupForm.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.findemployer.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.employerinsider.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.findemployerresult.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.showitems.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.buyitems.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.billing.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.sellitems.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.remove_employee.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.changepass.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.manageempaccount.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.change_email.resources
+C:\Users\Chetan Jagdaley\Documents\Visual Studio 2010\Projects\Shop Management project\Shop Management project\obj\x86\Debug\Shop_Management_project.changeadd.resources
